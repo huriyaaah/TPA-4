@@ -213,7 +213,7 @@ section{padding-top: 50px;}
 .project{
     display: grid;
     justify-content: center;
-    padding: 30px auto;
+    padding: 100px auto 30px auto;
     margin: 0px 50px 30px 50px; 
     text-align: center;
     gap: 20px;
