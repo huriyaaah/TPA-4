@@ -80,7 +80,7 @@ section{padding-top: 50px;}
 /* home */
 
 .home {
-    padding: 200px 50px 100px 50px;
+    padding: 150px 50px 100px 50px;
     margin: 0 auto; 
     display: grid;
     justify-content: center;
@@ -166,8 +166,8 @@ section{padding-top: 50px;}
 /* Skill */
 
 .skill{
-    margin-top: 200px ;
     display: grid;
+    padding-top: 100px;
     justify-content: center;
     text-align: center;
     grid-template-columns: 1fr 1fr;
